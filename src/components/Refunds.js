@@ -1,7 +1,8 @@
 import React from 'react'
-import { GoDotFill } from "react-icons/go"
 import Download from '../assets/Download'
 import Sort from '../assets/Sort'
+import GreenDot from '../assets/GreenDot'
+import GrayDot from '../assets/GrayDot'
 
 export default function Refunds() {
   return (
@@ -41,7 +42,7 @@ export default function Refunds() {
         <div className="flex justify-between py-[14px] px-3 border-b border-border">
           <p className='font-medium text-[14px] leading-5 font-golona text-primaryBlue w-[150px]'>#281209</p>
           <div className='flex gap-1 items-center w-[150px]'>
-            <GoDotFill className='text-limeGreen' />
+            <GreenDot />
             <p className='text-[14px] leading-5 text-mirage font-inter'>Successful</p>
           </div>
           <p className='text-[14px] leading-5 font-golona text-lightGray w-[150px]'>131634495747</p>
@@ -51,7 +52,7 @@ export default function Refunds() {
         <div className="flex justify-between py-[14px] px-3 border-b border-border">
           <p className='font-medium text-[14px] leading-5 font-golona text-primaryBlue w-[150px]'>#281208</p>
           <div className='flex gap-1 items-center w-[150px]'>
-            <GoDotFill className='text-lemonGrass' />
+            <GrayDot />
             <p className='text-[14px] leading-5 text-mirage font-inter'>Processing</p>
           </div>
           <p className='text-[14px] leading-5 font-golona text-lightGray w-[150px]'>131634495747</p>
@@ -61,7 +62,7 @@ export default function Refunds() {
         <div className="flex justify-between py-[14px] px-3 border-b border-border">
           <p className='font-medium text-[14px] leading-5 font-golona text-primaryBlue w-[150px]'>#281207</p>
           <div className='flex gap-1 items-center w-[150px]'>
-            <GoDotFill className='text-limeGreen' />
+            <GreenDot />
             <p className='text-[14px] leading-5 text-mirage font-inter'>Successful</p>
           </div>
           <p className='text-[14px] leading-5 font-golona text-lightGray w-[150px]'>131634495747</p>
@@ -71,7 +72,7 @@ export default function Refunds() {
         <div className="flex justify-between py-[14px] px-3 border-b border-border">
           <p className='font-medium text-[14px] leading-5 font-golona text-primaryBlue w-[150px]'>#281206</p>
           <div className='flex gap-1 items-center w-[150px]'>
-            <GoDotFill className='text-limeGreen' />
+            <GreenDot />
             <p className='text-[14px] leading-5 text-mirage font-inter'>Successful</p>
           </div>
           <p className='text-[14px] leading-5 font-golona text-lightGray w-[150px]'>131634495747</p>
@@ -81,7 +82,7 @@ export default function Refunds() {
         <div className="flex justify-between py-[14px] px-3 border-b border-border">
           <p className='font-medium text-[14px] leading-5 font-golona text-primaryBlue w-[150px]'>#281205</p>
           <div className='flex gap-1 items-center w-[150px]'>
-            <GoDotFill className='text-limeGreen' />
+            <GreenDot />
             <p className='text-[14px] leading-5 text-mirage font-inter'>Successful</p>
           </div>
           <p className='text-[14px] leading-5 font-golona text-lightGray w-[150px]'>131634495747</p>
@@ -91,7 +92,7 @@ export default function Refunds() {
         <div className="flex justify-between py-[14px] px-3 border-b border-border">
           <p className='font-medium text-[14px] leading-5 font-golona text-primaryBlue w-[150px]'>#281204</p>
           <div className='flex gap-1 items-center w-[150px]'>
-            <GoDotFill className='text-limeGreen' />
+            <GreenDot />
             <p className='text-[14px] leading-5 text-mirage font-inter'>Successful</p>
           </div>
           <p className='text-[14px] leading-5 font-golona text-lightGray w-[150px]'>131634495747</p>
