@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/payouts/static/css/main.a1e697e6.css",
+    "main.js": "/payouts/static/js/main.9e405097.js",
+    "static/js/787.3c72313d.chunk.js": "/payouts/static/js/787.3c72313d.chunk.js",
+    "index.html": "/payouts/index.html",
+    "main.a1e697e6.css.map": "/payouts/static/css/main.a1e697e6.css.map",
+    "main.9e405097.js.map": "/payouts/static/js/main.9e405097.js.map",
+    "787.3c72313d.chunk.js.map": "/payouts/static/js/787.3c72313d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1e697e6.css",
+    "static/js/main.9e405097.js"
+  ]
+}
